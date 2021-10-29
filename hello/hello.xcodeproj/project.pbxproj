@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BC4FAEBA272C161D007B297E /* fff.png in Resources */ = {isa = PBXBuildFile; fileRef = BC4FAEB9272C161C007B297E /* fff.png */; };
 		BCC565DD272AC3C400119EDE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCC565DC272AC3C400119EDE /* AppDelegate.swift */; };
 		BCC565DF272AC3C400119EDE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCC565DE272AC3C400119EDE /* SceneDelegate.swift */; };
 		BCC565E1272AC3C400119EDE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCC565E0272AC3C400119EDE /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BC4FAEB9272C161C007B297E /* fff.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fff.png; sourceTree = "<group>"; };
 		BCC565D9272AC3C400119EDE /* hello.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = hello.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BCC565DC272AC3C400119EDE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BCC565DE272AC3C400119EDE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				BCC565DC272AC3C400119EDE /* AppDelegate.swift */,
 				BCC565DE272AC3C400119EDE /* SceneDelegate.swift */,
 				BCC565E0272AC3C400119EDE /* ViewController.swift */,
+				BC4FAEB9272C161C007B297E /* fff.png */,
 				BCC565E2272AC3C400119EDE /* Main.storyboard */,
 				BCC565E5272AC3C400119EDE /* Assets.xcassets */,
 				BCC565E7272AC3C400119EDE /* LaunchScreen.storyboard */,
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BC4FAEBA272C161D007B297E /* fff.png in Resources */,
 				BCC565E9272AC3C400119EDE /* LaunchScreen.storyboard in Resources */,
 				BCC565E6272AC3C400119EDE /* Assets.xcassets in Resources */,
 				BCC565E4272AC3C400119EDE /* Main.storyboard in Resources */,
